@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1398578652 source:f:\my data\vap\messproject\messmanagement\menu.c
+	"Mess.h"
+
+1398578782 f:\my data\vap\messproject\messmanagement\mess.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1398958526 source:f:\my data\vap\messproject\messmanagement\order.c
+	"header.h"
+
+1398578652 f:\my data\vap\messproject\messmanagement\header.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1398578652 source:f:\my data\vap\messproject\messmanagement\pass.c
+	"Mess.h"
+
+1398962698 source:f:\my data\vap\messproject\messmanagement\student.c
+	"Mess.h"
+
+1398578714 source:f:\my data\vap\messproject\messmanagement\main.c
+	"Mess.h"
+
+1641710372 source:c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\main.c
+	"Mess.h"
+
+1641664260 c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\mess.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1641664260 source:c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\menu.c
+	"Mess.h"
+
+1641664260 source:c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\order.c
+	"header.h"
+
+1641664260 c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\header.h
+	"conio.h"
+	"stdio.h"
+	"stdlib.h"
+	"windows.h"
+	"process.h"
+	"string.h"
+
+1641664260 source:c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\pass.c
+	"Mess.h"
+
+1641664260 source:c:\users\vishal badiger\downloads\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\mess-management-c-project-79419725e5491d53747e7f99bd473f424924cf5a\messmanagement\student.c
+	"Mess.h"
+
